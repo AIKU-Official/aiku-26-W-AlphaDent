@@ -45,7 +45,9 @@
 
 ## 데이터 예시
 
-(이미지 삽입)
+<img width="800" height="1013" alt="image" src="https://github.com/user-attachments/assets/1b5a98ed-36d7-4149-81a6-cc709d824fa2" />
+
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/2c5793d9-35f0-4c58-83d9-9ebb4ea1b96f" />
 
 ## 클래스 분포
 
